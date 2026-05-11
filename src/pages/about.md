@@ -3,35 +3,24 @@ layout: ../layouts/AboutLayout.astro
 title: "About"
 ---
 
-AstroPaper is a minimal, accessible and SEO-friendly blog theme built with [Astro](https://astro.build/) and [Tailwind CSS](https://tailwindcss.com/).
+Hi, I'm Linfeng Lyu, an MS student in Computer Science at UMass Amherst.
 
-![Astro Paper](public/astropaper-og.jpg)
+I am interested in information retrieval and machine learning, especially the systems and models that help people find, organize, and reason over large collections of information.
 
-AstroPaper provides a solid foundation for blogs, or even portfolios\_ with full markdown support, built-in dark mode, and a clean layout that works out-of-the-box.
+This site is where I keep public notes from papers I am reading, course material I want to explain clearly, and projects I am building. The goal is partly to share what I learn, and partly to make my own thinking easier to revisit later.
 
-The blog posts in this theme also serve as guides, docs or example articles\_ making AstroPaper a flexible starting point for your next content-driven site.
+## What I write about
 
-## Features
+- Information retrieval papers and ideas
+- Machine learning notes from coursework and projects
+- Implementation details that are useful enough to keep public
+- Small experiments, debugging notes, and project writeups
 
-AstroPaper comes with a set of useful features that make content publishing easy and effective:
+## Current Focus
 
-- SEO-friendly
-- Fast performance
-- Light & dark mode
-- Highly customizable
-- Organizable blog posts
-- Responsive & accessible
-- Static search with [PageFind](https://pagefind.app/)
-- Automatic social image generation
+I am currently focused on building a stronger foundation in IR, ML, and research-oriented software engineering. I use this blog as a working notebook: less polished than a paper, but more durable than notes left in a private folder.
 
-and so much more.
+## Links
 
-## Show your support
-
-If you like [AstroPaper](https://github.com/satnaing/astro-paper), consider giving it a star ⭐️.
-
-Found a bug 🐛 or have an improvement ✨ in mind? Feel free to open an [issue](https://github.com/satnaing/astro-paper/issues), submit a [pull request](https://github.com/satnaing/astro-paper/pulls) or start a [discussion](https://github.com/satnaing/astro-paper/discussions).
-
-If you find this theme helpful, you can also [sponsor me on GitHub](https://github.com/sponsors/satnaing) or [buy me a coffee](https://buymeacoffee.com/satnaing) to show your support — every penny counts.
-
-Kyay zuu! 🙏🏼
+- [GitHub](https://github.com/EigenTrace)
+- [LinkedIn](https://www.linkedin.com/in/linfeng-lyu-a6b062392/)
